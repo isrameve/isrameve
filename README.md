@@ -1,18 +1,17 @@
 # Hola👋, soy Israel
 
-Ya estoy mayorcito _(33 Años)_ y aunque siempre me he sentido atraído hacia el desarrollo de software y la tecnología en general, nunca había tenido la oportunidad de estudiarlo hasta ahora... **ASÍ QUE**
+Ya estoy mayorcito _(33 Años :neckbeard:)_ y aunque siempre me he sentido atraído hacia el desarrollo de software y la tecnología en general, nunca había tenido la oportunidad de estudiarlo hasta ahora... **ASÍ QUE :metal:**
 
 ## Me estoy formando como desarrollador de Software en Platzi
 
 Apasionado por el **mundo fungi** [^1], el **preparacionismo** [^2] y el **supervivencialismo** [^3].
 
-Friki y Gamer reprimido pero procesado...
+:space_invader: Friki y Gamer :video_game: reprimido pero procesado...
 
 ### Mis redes y vias contactos
 
-[LinkedIn](https://www.example.com)
-![LinkedIn+](https://www.example.com)
-[Instagram](https://www.example.com)
+[LinkedIn](https://www.linkedin.com/in/israelmedive/)
+[Instagram](https://www.instagram.com/isrameve_/)
 
 [^1]: Define mundo Fungi.
 [^2]: Define preparacionismo.
