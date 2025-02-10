@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola👋, soy Israel
 
-<!--
-**isrameve/isrameve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ya estoy mayorcito _(33 Años)_ y aunque siempre me he sentido atraído hacia el desarrollo de software y la tecnología en general, nunca había tenido la oportunidad de estudiarlo hasta ahora... **ASÍ QUE**
 
-Here are some ideas to get you started:
+## Me estoy formando como desarrollador de Software en Platzi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apasionado por el **mundo fungi**[^1], el **preparacionismo**[^2] y el **supervivencialismo**[^3].
+
+Friki y Gamer reprimido pero procesado
+
+[^1]: Define mundo Fungi.
+[^2]: Define preparacionismo.
+[^3]: Define supervivencialismo.
