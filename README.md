@@ -4,9 +4,15 @@ Ya estoy mayorcito _(33 Años)_ y aunque siempre me he sentido atraído hacia el
 
 ## Me estoy formando como desarrollador de Software en Platzi
 
-Apasionado por el **mundo fungi**[^1], el **preparacionismo**[^2] y el **supervivencialismo**[^3].
+Apasionado por el **mundo fungi** [^1], el **preparacionismo** [^2] y el **supervivencialismo** [^3].
 
-Friki y Gamer reprimido pero procesado
+Friki y Gamer reprimido pero procesado...
+
+### Mis redes y vias contactos
+
+[LinkedIn](https://www.example.com)
+![LinkedIn+](https://www.example.com)
+[Instagram](https://www.example.com)
 
 [^1]: Define mundo Fungi.
 [^2]: Define preparacionismo.
