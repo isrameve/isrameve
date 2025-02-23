@@ -6,8 +6,6 @@ Ya estoy mayorcito _(33 A√±os :neckbeard:)_ y aunque siempre me he sentido atra√
 
 Apasionado por el **mundo fungi** [^1], el **preparacionismo** [^2] y el **supervivencialismo** [^3].
 
-:space_invader: Friki y Gamer :video_game: frustrado pero procesado...
-
 ## :zap: Actividad receinte
 <!-- START_SECTION: activity -->
 <!-- END_SECTION: activity -->
