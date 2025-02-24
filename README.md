@@ -5,8 +5,7 @@ Ya estoy mayorcito _(33 A√±os :neckbeard:)_ y aunque siempre me he sentido atra√
 ### Me estoy formando como desarrollador de Software en Platzi
 
 ## :zap: Mi actividad reciente
-<!-- RECENT_ACTIVITY:start -->
-
+<!--RECENT_ACTIVITY:start-->
 <!-- RECENT_ACTIVITY:last_update -->
 
 ## Mis redes y vias contactos
