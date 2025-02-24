@@ -2,7 +2,12 @@
 
 Ya estoy mayorcito _(33 Años :neckbeard:)_ y aunque siempre me he sentido atraído hacia el desarrollo de software y la tecnología en general, nunca había tenido la oportunidad de estudiarlo hasta ahora... **ASÍ QUE :metal:**
 
-## Me estoy formando como desarrollador de Software en Platzi
+### Me estoy formando como desarrollador de Software en Platzi
+
+## :zap: Mi actividad reciente
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
 
 ## Mis redes y vias contactos
 
