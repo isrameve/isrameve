@@ -4,8 +4,6 @@ Ya estoy mayorcito _(33 A√±os :neckbeard:)_ y aunque siempre me he sentido atra√
 
 ## Me estoy formando como desarrollador de Software en Platzi
 
-Apasionado por el **mundo fungi** [^1], el **preparacionismo** [^2] y el **supervivencialismo** [^3].
-
 ## :zap: Actividad receinte
 <!-- START_SECTION: activity -->
 <!-- END_SECTION: activity -->
@@ -14,7 +12,3 @@ Apasionado por el **mundo fungi** [^1], el **preparacionismo** [^2] y el **super
 
 ## [LinkedIn](https://www.linkedin.com/in/israelmedive/)
 ## [Instagram](https://www.instagram.com/isrameve_/)
-
-[^1]: Define mundo Fungi.
-[^2]: Define preparacionismo.
-[^3]: Define supervivencialismo.
