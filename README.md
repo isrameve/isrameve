@@ -4,10 +4,6 @@ Ya estoy mayorcito _(33 A√±os :neckbeard:)_ y aunque siempre me he sentido atra√
 
 ## Me estoy formando como desarrollador de Software en Platzi
 
-## :zap: Actividad receinte
-<!-- START_SECTION: activity -->
-<!-- END_SECTION: activity -->
-
 ## Mis redes y vias contactos
 
 ## [LinkedIn](https://www.linkedin.com/in/israelmedive/)
